@@ -2,6 +2,9 @@
 
 A modern, responsive, and feature-rich **Job Application Tracker** built with **React**, **Tailwind CSS**, **Lucide Icons**, and **LocalStorage Persistence**.
 
+🔗 **Live Demo:** [https://job-application-tracker-liard-beta.vercel.app](https://job-application-tracker-liard-beta.vercel.app)  
+📦 **GitHub Repo:** [https://github.com/SinhaSristy10/JobApplicationTracker](https://github.com/SinhaSristy10/JobApplicationTracker)
+
 ---
 
 ## 🎯 Features & Requirements Implemented
