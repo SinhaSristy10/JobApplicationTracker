@@ -190,6 +190,7 @@ export default function Navbar({
           {/* New Application Primary Button */}
           <button
             onClick={onNewApplication}
+            aria-label="Add Application"
             className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-medium text-sm rounded-xl shadow-sm shadow-blue-500/20 transition-all hover:shadow-md hover:shadow-blue-500/30 active:scale-[0.98]"
           >
             <Plus className="w-4 h-4 stroke-[2.5]" />
